@@ -265,17 +265,6 @@ The application is production-ready with:
 - Clean code architecture
 - Role-based permissions
 
-## 🎯 Assignment Completion: 100/100 Points
-
-- Google JWT Auth Flow: ✅ 10/10
-- Dynamic Table Renderer: ✅ 10/10
-- Dynamic Form Renderer: ✅ 10/10
-- Redux + TypeScript: ✅ 5/5
-- Add User → Email Notification: ✅ 10/10
-- Backend API + Validation: ✅ 40/40
-- Tests (Front & Back): ✅ 10/10
-- UI/UX + Code Quality: ✅ 5/5
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -288,11 +277,11 @@ The application is production-ready with:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨💻 Author
 
 **Diksha Pandey**
 - Email: diksha.pandey@kellton.com
-- GitHub: [Your GitHub Profile]
+- GitHub: [DikshaPa](https://github.com/DikshaPa)
 
 ## 🙏 Acknowledgments
 
